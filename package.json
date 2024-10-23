@@ -1,0 +1,19 @@
+{
+  "name": "cookies-and-sessions",
+  "version": "1.0.0",
+  "description": "\"Learning cookies and sessions\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.1",
+    "express-session": "^1.18.1"
+  }
+}
